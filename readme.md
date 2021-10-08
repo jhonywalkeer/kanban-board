@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./src/icon-repo-kanban.png" alt="Kanban Board by Jhony Walker" width="200px" />
+    <img src="./src/icon-repo-kanban.png" alt="Kanban Board by Jhony Walker" width="30%" />
 </h1>
 
 ## 💻 Repository Summary
@@ -26,6 +26,8 @@ This weekend I was studying about kanban and I saw that you have several tools w
 You will need [GIT](https://git-scm.com/) in the most up-to-date version installed on your computer to continue.
 
 ```bash
+https://github.com/jhonywalkeer/kanban-board.git
+
 $ cd kanban-board
 $ code .
 ```
